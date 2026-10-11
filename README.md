@@ -1,27 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:134e4a,100:2DD4BF&height=260&section=header&text=Shoib%20Ahmad&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20AI%20%2F%20ML%20Engineer&descAlignY=62&descSize=20&animation=twinkling" alt="Shoib Ahmad" />
+<img src="assets/header.svg" width="100%" alt="Shoib Ahmad · Software Developer · AI / ML Engineer" />
 
 <a href="https://github.com/shoibahmad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=50&lines=Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js;I+build+AI-powered+full-stack+apps+end+to+end;LLM+agents+%C2%B7+Computer+Vision+%C2%B7+Machine+Learning;Open+to+SDE-1+%2F+AI-ML+Developer+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js;I+build+AI-powered+full-stack+apps+end+to+end;LLM+agents+%C2%B7+Computer+Vision+%C2%B7+Machine+Learning;Open+to+SDE-1+%2F+AI-ML+Developer+roles" alt="Typing animation" />
 </a>
 
 <br />
 
-<a href="https://shoibahmad.in"><img src="https://img.shields.io/badge/PORTFOLIO-shoibahmad.in-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0f172a&labelColor=0f172a" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/shoibahmad"><img src="https://img.shields.io/badge/LINKEDIN-shoibahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" /></a>
-<a href="mailto:shoibsahmad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=shoibahmad&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
+<a href="https://shoibahmad.in"><img src="https://img.shields.io/badge/PORTFOLIO-shoibahmad.in-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0b1020&labelColor=0b1020" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/shoibahmad"><img src="https://img.shields.io/badge/LINKEDIN-shoibahmad-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn" /></a>
+<a href="mailto:shoibsahmad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=shoibahmad&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS&labelColor=0b1020" alt="Profile views" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-SDE--1%20%7C%20AI%2FML%20Developer-34D399?style=flat-square&labelColor=0b1020" alt="Open to work" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-India-8B5CF6?style=flat-square&labelColor=0b1020" alt="India" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-MCA%20%C2%B7%20Jamia%20Hamdard-F472B6?style=flat-square&labelColor=0b1020" alt="MCA Jamia Hamdard" />
+
+<br /><br />
+
+<img src="assets/marquee.svg" width="100%" alt="Skills ticker: Python, FastAPI, React, PyTorch, LangGraph, Docker and more" />
 
 </div>
 
 <br />
 
+<img src="assets/sec-about.svg" width="100%" alt="About Me" />
+
+I'm a final-year **MCA student at Jamia Hamdard University, New Delhi**, with a **BCA from Integral University, Lucknow**. I build full-stack, AI-powered applications end to end: scraping and data pipelines, backend APIs, LLM-driven agents and polished frontends. I care about shipping things that work in production, not just demos.
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=48&section=header&text=%E2%9C%A6%20About%20Me&fontColor=2DD4BF&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" alt="About Me" />
+  <img src="assets/terminal.svg" width="85%" alt="Animated terminal: whoami, role, skills, education, status" />
 </div>
 
-I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.26), with a **BCA from Integral University, Lucknow** (CGPA 9.10). I build full-stack, AI-powered applications end to end: scraping and data pipelines, backend APIs, LLM-driven features and polished frontends. I care about shipping things that work in production, not just demos.
+<br />
 
 <table>
   <tr>
@@ -30,7 +44,11 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
   </tr>
   <tr>
     <td>🤖 <b>Working with</b></td>
-    <td>LangGraph, LangChain, Claude &amp; Gemini APIs, FastAPI, React 19, PyTorch</td>
+    <td>LangGraph, LangChain, Claude Agent SDK, Gemini API, FastAPI, React 19, PyTorch</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Focus areas</b></td>
+    <td>Agentic AI workflows · Computer vision · Explainable ML · Offline-first apps</td>
   </tr>
   <tr>
     <td>📄 <b>Published</b></td>
@@ -48,27 +66,28 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=48&section=header&text=%E2%9C%A6%20By%20the%20Numbers&fontColor=2DD4BF&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" alt="By the numbers" />
-</div>
+<img src="assets/sec-numbers.svg" width="100%" alt="By the Numbers" />
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><h2>10,000+</h2><sub>daily requests<br />Web Sonar</sub></td>
-    <td align="center"><h2>24</h2><sub>analyzer modules<br />Web Sonar</sub></td>
-    <td align="center"><h2>92%</h2><sub>deepfake accuracy<br />TruthGuard AI</sub></td>
-    <td align="center"><h2>0.87</h2><sub>F1 score<br />Med-AI Vigi</sub></td>
-    <td align="center"><h2>478</h2><sub>face landmarks tracked<br />SecureEval</sub></td>
-  </tr>
-</table>
+  <img src="assets/numbers.svg" width="100%" alt="10,000+ daily requests, 24 analyzer modules, 92% deepfake accuracy, 0.87 F1, 478 face landmarks, 10+ AI products" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=48&section=header&text=%E2%9C%A6%20Tech%20Stack&fontColor=2DD4BF&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" alt="Tech stack" />
-</div>
+<img src="assets/sec-experience.svg" width="100%" alt="Experience" />
+
+<table>
+  <tr>
+    <td width="170" valign="top"><b>Freelance Software Engineer</b><br /><sub>RuralHealthAI</sub></td>
+    <td>
+      Built an <b>offline-first rural health screening platform</b> for real low-connectivity use: Django REST Framework APIs, a React 18 + Vite frontend with IndexedDB offline sync, Gemini Pro for screening logic and Firebase services.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="assets/sec-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
 <table>
@@ -81,7 +100,7 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
   <tr>
     <td align="center"><b>🎨 Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,js,html,css&perline=8" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,js,html,css&perline=8" alt="Frontend" />
     </td>
   </tr>
   <tr>
@@ -97,6 +116,15 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
     </td>
   </tr>
   <tr>
+    <td align="center"><b>🔌 Data &amp; Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square" alt="Scrapy" />
+      <img src="https://img.shields.io/badge/axe--core-683D87?style=flat-square" alt="axe-core" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe" />
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>☁️ Cloud &amp; DevOps</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker,gcp,azure,aws,redis,firebase,git,github,postman&perline=9" alt="Cloud and tools" /><br />
@@ -109,9 +137,7 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=48&section=header&text=%E2%9C%A6%20Featured%20Projects&fontColor=2DD4BF&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" alt="Featured projects" />
-</div>
+<img src="assets/sec-projects.svg" width="100%" alt="Featured Projects" />
 
 <table>
   <tr>
@@ -137,6 +163,17 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>♿ Curbcut</h3>
+      <sub><b>HACKATHON · OPEN SOURCE · AGENTIC WCAG REMEDIATION</b></sub>
+      <p>An agentic workflow that repairs WCAG accessibility defects in HTML pages and verifies its own work against harm gates. Corpus, harness, scoring code and agent trajectories are all committed.</p>
+      <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/axe--core-683D87?style=flat-square" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
       <h3>🎓 SecureEval</h3>
       <sub><b>LIVE AI EXAM PROCTORING · DEPLOYED AT INTEGRAL UNIVERSITY</b></sub>
       <p>Real-time integrity tracking using 478-point facial landmark detection (MediaPipe Face Mesh) with Gemini 1.5 Flash for anomaly reasoning.</p>
@@ -145,6 +182,8 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🕵️ TruthGuard AI</h3>
       <sub><b>CNN-BASED DEEPFAKE DETECTOR</b></sub>
@@ -153,8 +192,6 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💳 Solvency AI</h3>
       <sub><b>IDBI HACKATHON · TEAM NEURON</b></sub>
@@ -164,6 +201,8 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
       <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💊 Med-AI Vigi</h3>
       <sub><b>ADVERSE DRUG REACTION PREDICTION</b></sub>
@@ -172,8 +211,6 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
       <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎯 HireSight AI</h3>
       <sub><b>CANDIDATE RANKING · REDROB HACKATHON</b></sub>
@@ -182,14 +219,6 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
       <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏨 AI Hotel Receptionist</h3>
-      <sub><b>AGENTIC TOOL-USE ASSISTANT</b></sub>
-      <p>Conversational agent built around Claude's tool-use loop, with a FastAPI + Next.js stack handling bookings and guest queries end to end.</p>
-      <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -214,26 +243,39 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=48&section=header&text=%E2%9C%A6%20GitHub%20Stats&fontColor=2DD4BF&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" alt="GitHub stats" />
+<img src="assets/sec-published.svg" width="100%" alt="Published Work" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shoibahmad&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoibahmad&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=2DD4BF&text_color=c9d1d9" alt="Top languages" />
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoibahmad&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoibahmad&bg_color=0d1117&color=2DD4BF&line=2DD4BF&point=ffffff&area=true&area_color=2DD4BF&hide_border=true" width="100%" alt="Contribution graph" />
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <h3>📱 IU CA Cross Platform App</h3>
+      <sub><b>PEER-REVIEWED · IJSAT VOL. 16, ISSUE 4 · NOV 2025</b></sub>
+      <p>Sole-authored paper on a cross-platform academic department application built with Flutter/Dart. <a href="https://github.com/shoibahmad/IU-CA">Source code</a> · <a href="https://doi.org/10.71097/IJSAT.v16.i4.9262">Read the paper (DOI 10.71097/IJSAT.v16.i4.9262)</a></p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Published-IJSAT-22D3EE?style=flat-square&labelColor=0b1020" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:134e4a&height=48&section=header&text=%E2%9C%A6%20Certifications%20%26%20Recognition&fontColor=2DD4BF&fontSize=22&fontAlign=50&fontAlignY=55" width="100%" alt="Certifications and recognition" />
-</div>
+<img src="assets/sec-education.svg" width="100%" alt="Education" />
+
+<table>
+  <tr>
+    <td width="130"><b>2024 – 2026</b></td>
+    <td><b>Master of Computer Applications (MCA)</b><br />Jamia Hamdard University, New Delhi · CGPI 8.26</td>
+  </tr>
+  <tr>
+    <td><b>2021 – 2024</b></td>
+    <td><b>Bachelor of Computer Applications (BCA)</b><br />Integral University, Lucknow · CGPA 9.10</td>
+  </tr>
+</table>
+
+<br />
+
+<img src="assets/sec-certs.svg" width="100%" alt="Certifications and Recognition" />
 
 <table>
   <tr>
@@ -256,10 +298,38 @@ I'm a final-year **MCA student at Jamia Hamdard University, New Delhi** (CGPI 8.
 
 <br />
 
+<img src="assets/sec-stats.svg" width="100%" alt="GitHub Stats" />
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shoibahmad&show_icons=true&hide_border=true&count_private=true&bg_color=0b1020&title_color=22D3EE&icon_color=F472B6&text_color=E2E8F0" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoibahmad&layout=compact&hide_border=true&langs_count=8&bg_color=0b1020&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoibahmad&hide_border=true&background=0b1020&ring=8B5CF6&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub streak" />
+
+  <br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=shoibahmad&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoibahmad&bg_color=0b1020&color=22D3EE&line=8B5CF6&point=F472B6&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="Contribution graph" />
+</div>
+
+<br />
+
+<img src="assets/sec-connect.svg" width="100%" alt="Let's Connect" />
+
 <div align="center">
 
-<a href="https://shoibahmad.in"><img src="https://img.shields.io/badge/Let's%20build%20something%20together-2DD4BF?style=for-the-badge&labelColor=0f172a" alt="Let's build something together" /></a>
+<p>Open to SDE-1 and AI/ML Developer roles. If you're building something interesting, I'd love to hear about it.</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0f172a&height=110&section=footer" alt="footer" />
+<a href="https://shoibahmad.in"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/shoibahmad"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" /></a>
+<a href="mailto:shoibsahmad@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b1020?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Gmail" /></a>
+<a href="https://instagram.com/shoibsahmad"><img src="https://img.shields.io/badge/Instagram-0b1020?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram" /></a>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something together." />
 
 </div>
